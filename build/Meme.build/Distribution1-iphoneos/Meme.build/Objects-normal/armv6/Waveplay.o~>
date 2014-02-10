@@ -1,0 +1,8 @@
+/Users/shooting/Desktop/Meme/Classes/Waveplay.m: In function '-[Waveplay JudgeWinLose:]':
+/Users/shooting/Desktop/Meme/Classes/Waveplay.m:421: error: 'rightmusic' undeclared (first use in this function)
+/Users/shooting/Desktop/Meme/Classes/Waveplay.m:421: error: (Each undeclared identifier is reported only once
+/Users/shooting/Desktop/Meme/Classes/Waveplay.m:421: error: for each function it appears in.)
+/Users/shooting/Desktop/Meme/Classes/Waveplay.m:427: error: 'wrongmusic' undeclared (first use in this function)
+/Users/shooting/Desktop/Meme/Classes/Waveplay.m: In function '-[Waveplay viewDidLoad]':
+/Users/shooting/Desktop/Meme/Classes/Waveplay.m:558: error: 'rightmusic' undeclared (first use in this function)
+/Users/shooting/Desktop/Meme/Classes/Waveplay.m:559: error: 'wrongmusic' undeclared (first use in this function)

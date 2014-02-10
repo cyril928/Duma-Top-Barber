@@ -1,0 +1,15 @@
+In file included from /Users/mobilelab/Desktop/Meme-4/Classes/PlayView.m:9:
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.h:90: warning: type of accessor does not match the type of property 'Continue'
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.h:90: warning: type of accessor does not match the type of property 'cut'
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.m: In function '-[PlayView loadImage:Hair:]':
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.m:100: warning: format not a string literal and no format arguments
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.m: In function '-[PlayView Compare:TwoImage:]':
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.m:110: warning: format not a string literal and no format arguments
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.m:150: warning: unused variable 'alpha2'
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.m: In function '-[PlayView check]':
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.m:494: warning: format not a string literal and no format arguments
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.m: In function '-[PlayView Continue]':
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.m:17: warning: 'return' with a value, in function returning void
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.m: At top level:
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.m:672: warning: incomplete implementation of class 'PlayView'
+/Users/mobilelab/Desktop/Meme-4/Classes/PlayView.m:672: warning: method definition for '-datafilepathlv' not found
