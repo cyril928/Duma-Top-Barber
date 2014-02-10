@@ -3,7 +3,7 @@ Cooperated with CTWeng. Multimedia are supported by Memes Creative Partnership
 
 App Description
 
-Duma hair style contest is coming. The key to success is to beautify the Duma’s big messy fluffy blackhead.
+Duma hair style contest is coming. The key to be succeed is to decorate the Duma’s big messy fluffy blackhead.
 
 In order to become the official hair stylist of Duma, you must complete the hair design missions for Duma before the apple disappears. When you finish your mission, don’t forget to upload your Duma’s hairstyle picture to the “Duma barber Hall of Fame”, you will have the chance to compete for the "super genius hairdresser".
 
@@ -19,4 +19,4 @@ Use your finger to perm Duma a vintage curl hairstyle. Although natural curl hai
 
 Modeling
 
-Swing your iPhone to receive the materials fell from sky, including colors, flowers, stars, and bows, which can decorate Duma the world fanciest Formosan black bears.
+Swing your iPhone to receive the materials fell from sky, including colors, flowers, stars, and bows, which can decorate Duma as the world fanciest Formosan black bears.
